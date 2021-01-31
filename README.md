@@ -1,13 +1,21 @@
 # 🌠Meteor
 
-A package manager exploration project for Lua.
+![Gitter](https://img.shields.io/gitter/room/daelvn/meteor?color=pink&style=flat-square)
+
+A package manager exploration project for Lua. Last revised on **January 2021**.
+
+## What?
+
+It's too early to call this an alternative package manager for Lua, so I will be calling this a *package manager exploration project*. The point is looking at what LuaRocks does right, what it does wrong, what could improve and what is completely missing.
 
 ## Why?
 
-For many reasons! LuaRocks is the best tool we have, but not the best tool we could get. The CONCEPT.md file includes a list of the things that we could do better.
+LuaRocks is the choice package manager for Lua, and the one everyone uses for distributing packages. It's not a bad package manager, but it has its flaws.
 
-For now, this is just the beginning, getting into it, exploring different options and systems, creating primitive tools and systems. Nothing ready for production.
+## How?
 
-## When?
+This repository will mostly contain text for a while. First I would like to collect ideas, input from the community, see what we can do, what we should do, and things like that.
 
-There is no planned project development, but rather, this is just a collection of ideas.
+## Where?
+
+Check out the concept, ideas and other things [here](//git.daelvn.com/meteor/).
