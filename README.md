@@ -1,6 +1,6 @@
 # 🌠Meteor
 
-![Gitter](https://img.shields.io/gitter/room/daelvn/meteor?color=pink&style=flat-square)
+<a href="https://gitter.im/daelvn/meteor"><img alt="Gitter" src="https://img.shields.io/gitter/room/daelvn/meteor?style=flat-square"></a>
 
 A package manager exploration project for Lua. Last revised on **January 2021**.
 
